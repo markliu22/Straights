@@ -1,0 +1,16 @@
+c
+h
+c
+c
+play 6H
+play TH
+play 6D
+discard 7H
+discard TD
+discard QQ
+discard 00
+discard QD
+discard TH
+discard 1S
+discard 1D
+ragequit
